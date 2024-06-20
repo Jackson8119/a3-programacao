@@ -1,2 +1,2 @@
 # a3-programacao
-Repositório para a prova A3 de programação .
+Este repositório foi criado para salavar os códigos e materiais usados na aula de programação.
